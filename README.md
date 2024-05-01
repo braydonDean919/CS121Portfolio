@@ -1,5 +1,6 @@
 #CS121 Portfolio
 
-| Number | Item |
+| Name | Item |
 |--------| -----|
+
 
