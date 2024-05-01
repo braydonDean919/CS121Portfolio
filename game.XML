@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<games>
+    <game id="1">
+    <genre>Action</genre>
+        <type>FPS</type>
+        <name>Call of Duty</name>
+    </game>
+    <game id="2">
+        <genre>Action</genre>
+        <type>RPG</type>
+        <name>Gotham Knights</name>
+    </game>
+    <game id="3">
+        <genre>Racing</genre>
+        <type>Street Racing</type>
+        <name>Need For Speed</name>
+    </game>
+</games>
